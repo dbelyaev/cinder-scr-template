@@ -1,7 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "screensaver", "screensaver.vcxproj", "{465FF7C6-0436-4734-A6CE-75E179334104}"
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Screensaver", "screensaver.vcxproj", "{4B1BF83F-F8D9-4DF0-AE68-C6775E5B52E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{465FF7C6-0436-4734-A6CE-75E179334104}.Debug|Win32.ActiveCfg = Debug|Win32
-		{465FF7C6-0436-4734-A6CE-75E179334104}.Debug|Win32.Build.0 = Debug|Win32
-		{465FF7C6-0436-4734-A6CE-75E179334104}.Release|Win32.ActiveCfg = Release|Win32
-		{465FF7C6-0436-4734-A6CE-75E179334104}.Release|Win32.Build.0 = Release|Win32
+		{4B1BF83F-F8D9-4DF0-AE68-C6775E5B52E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B1BF83F-F8D9-4DF0-AE68-C6775E5B52E1}.Debug|Win32.Build.0 = Debug|Win32
+		{4B1BF83F-F8D9-4DF0-AE68-C6775E5B52E1}.Release|Win32.ActiveCfg = Release|Win32
+		{4B1BF83F-F8D9-4DF0-AE68-C6775E5B52E1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
